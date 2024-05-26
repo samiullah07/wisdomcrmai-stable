@@ -1,0 +1,5 @@
+<?php
+$host = 'db';
+$user = 'ai_chat';
+$password = 'ai_chat';
+$dbname = 'ai_chat';
